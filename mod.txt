@@ -1,14 +1,13 @@
 {
-    "name": "Teste",
-    "description": "Teste descricao",
-    "author": "",
+    "name": "dlc-opener",
+    "description": "ez dlcs",
+    "author": "lipeeeee",
     "contact": "",
     "version": "v1.0.0",
     
-    "hooks": [
-    {
+    "hooks": 
+    [{
         "hook_id": "lib/managers/dlcmanager",
-        "script_path": "dlc-unlocker.lua"
-    }
-    ]
+        "script_path": "dlc-opener.lua" 
+    }]
 }
