@@ -1,7 +1,7 @@
 <h1 align="center"> DLC-Opener </h1>
 
 ## Instalação
-Extrair zip para **common\PAYDAY 2/mods\**
+Extrair zip para **common/PAYDAY 2/mods/**
 
 ## Ignorar Kick
 Mudar informações em mods.txt para ignorar kick em lobbys
